@@ -1,0 +1,6 @@
+{
+  "name": "Focus Tracker",
+  "description": "A clean, modern productivity application to manage daily habits and tasks.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
